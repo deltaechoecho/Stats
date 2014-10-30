@@ -1,4 +1,5 @@
 Stats
 =====
 
-A number of statistical tools to help with climate analysis.
+A collection of small mathematics and interface modules that largely help with managing netCDF files, deriving indices from 
+the Hadley Regional Climate Model (version 3) and E-OBS reanalysis data files.
